@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoisApp", "VoisApp\VoisApp.csproj", "{73ECAF08-ADD9-4CA5-A840-2DF0382902AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTranslat", "ConsoleTranslat\ConsoleTranslat.csproj", "{22BE0779-FB69-4F15-92F1-A8012C39924D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73ECAF08-ADD9-4CA5-A840-2DF0382902AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73ECAF08-ADD9-4CA5-A840-2DF0382902AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73ECAF08-ADD9-4CA5-A840-2DF0382902AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73ECAF08-ADD9-4CA5-A840-2DF0382902AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22BE0779-FB69-4F15-92F1-A8012C39924D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BE0779-FB69-4F15-92F1-A8012C39924D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BE0779-FB69-4F15-92F1-A8012C39924D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BE0779-FB69-4F15-92F1-A8012C39924D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD0AAE9B-D4B7-4487-9BCE-A8F847677B4A}
+	EndGlobalSection
+EndGlobal
